@@ -46,7 +46,7 @@ destilaria: Glenfiddich
 
 ## 📊 Perfil de Degustação 
 
-![](../graficos/glenfiddich12.png)
+![]({{ "/graficos/glenfiddich12.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
