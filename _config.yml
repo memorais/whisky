@@ -19,3 +19,4 @@ collections:
 exclude:
   - README.md
   - .gitignore
+  - templates
