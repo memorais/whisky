@@ -6,7 +6,7 @@
 \begin{document}
 \begin{tikzpicture}
 \begin{polaraxis}[
-    title={Perfil de Degustação - Talisker 10},
+    title={Perfil de Degustação - Sazerac Rye},
     xtick={0,60,120,180,240,300},
     xticklabels={Amadeirado, Frutado, Floral, Turfado, Cereal, Picante},
     ymin=0, ymax=5,
@@ -18,12 +18,12 @@
     height=12cm
 ]
 \addplot+[mark=*,mark size=2,very thick,orange,mark options={fill=orange, draw=orange}] coordinates {
-    (0,1) %Amadeirado
-    (60,0) %Frutado
+    (0,2) %Amadeirado
+    (60,3) %Frutado
     (120,0) %Floral
-    (180,4) %Turfado
-    (240,0) %Cereal
-    (300,1) %Picante
+    (180,0) %Turfado
+    (240,1) %Cereal
+    (300,4) %Picante
 } --cycle;
 \end{polaraxis}
 \end{tikzpicture}
