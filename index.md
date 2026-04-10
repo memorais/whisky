@@ -7,26 +7,21 @@ title: Minha Adega Digital
 
 Aqui estão todas as notas de degustação da minha coleção:
 
-<ul>
-{% for file in site.static_files %}
-  {% if file.path contains "/degustacoes/" and file.extname == ".md" %}
-    {% assign nome = file.basename | replace: "-", " " | capitalize %}
+{% assign whiskies = site.collections | where: "label", "degustacoes" | first %}
+{% if whiskies %}
+  <ul>
+  {% for whisky in whiskies.docs %}
     <li>
-      <a href="{{ file.path | replace: ".md", ".html" | relative_url }}">
-        🥃 {{ nome }}
+      <a href="{{ whisky.url | relative_url }}">
+        🥃 {{ whisky.data.title | default: whisky.title | default: whisky.basename }}
       </a>
     </li>
-  {% endif %}
-{% endfor %}
-</ul>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>Nenhuma degustação encontrada.</p>
+{% endif %}
 
 ---
 
-*Total de whiskies:
-{% assign count = 0 %}
-{% for file in site.static_files %}
-  {% if file.path contains "/degustacoes/" and file.extname == ".md" %}
-    {% assign count = count | plus: 1 %}
-  {% endif %}
-{% endfor %}
-{{ count }}*
+*Total: {{ whiskies.docs | size }} whiskies*

@@ -9,8 +9,12 @@ theme: jekyll-theme-primer  # Tema leve e limpo (opcional)
 # URLs amigáveis
 permalink: pretty
 
+collections:
+  degustacoes:
+    output: true
+    permalink: /degustacoes/:path/
+
 # Pastas que não devem ser processadas
 exclude:
   - README.md
   - .gitignore
-  - templates
