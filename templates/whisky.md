@@ -38,18 +38,9 @@
 
 ---
 
-## 📊 Perfil de Sabores
+## 📊 Perfil de Degustação
 
 ![Gráfico de Radar](./images/whisky-nome.png)
-
-| Sabor | Intensidade (0-5) |
-|-------|:-----------------:|
-| Amadeirado | 4 |
-| Frutado | 3 |
-| Floral | 2 |
-| Turfado | 5 |
-| Cereal | 3 |
-| Picante | 4 |
 
 ---
 
