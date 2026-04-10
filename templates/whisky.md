@@ -1,52 +1,55 @@
-# 🥃 Nome do Whisky
+---
+layout: base
+title: "Glenfiddich 12 anos - Notas de Degustação"
+date: 2025-11-19
+whisky: Glenfiddich 12 anos
+tipo: Single Malt
+idade: 12
+destilaria: Glenfiddich
+---
+
+# 🥃 Glenfiddich 12 anos
+
+*Degustado em {{ page.date | date: "%d/%m/%Y" }}*
+
+## 📋 Ficha Técnica
 
 | Propriedade | Detalhe |
 |-------------|---------|
-| **Data da Degustação** | DD/MM/AAAA |
-| **Tipo** | Single Malt / Blend / etc |
-| **Idade** | X anos |
-| **Destilaria** | Nome da Destilaria |
-| **Cor** | Âmbar dourado, ouro velho, etc |
-
----
+| **Tipo** | {{ page.tipo }} |
+| **Idade** | {{ page.idade }} anos |
+| **Destilaria** | {{ page.destilaria }} |
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Nota 1
-- Nota 2
-- Nota 3
+- Malte
+- Floral
+- Grama
+- Baunilha
+- Chocolate
 
 ### Sabor
-- Nota 1
-- Nota 2
-- Nota 3
-
----
+- Malte
+- Ameixa
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Nota 1
-- Nota 2
-- Nota 3
+- Baunilha mais forte 
+- Doce 
 
 ### Sabor
-- Nota 1
-- Nota 2
-- Nota 3
+- Malte 
+- Ameixa
+- Doce
+
+## 📊 Perfil de Degustação 
+
+![]({{ "/graficos/glenfiddich12.png" | relative_url }})
+
+## 💭 Impressões Pessoais
+
+*Foi meu primiero whisky single malt para degustação, acho que ainda vou ter que revisitar este whisky quando tiver mais experiência*
 
 ---
-
-## 📊 Perfil de Degustação
-
-![Gráfico de Radar](./images/whisky-nome.png)
-
----
-
-## 📝 Notas Finais
-
-*Observações adicionais, harmonizações, impressões pessoais...*
-
----
-*Registrado em: DD/MM/AAAA*
