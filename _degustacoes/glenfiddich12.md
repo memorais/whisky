@@ -2,10 +2,13 @@
 layout: base
 title: "Glenfiddich 12 anos - Notas de Degustação"
 date: 2025-11-19
-whisky: Glenfiddich 12 anos
+whisky: Glenfiddich 12
 tipo: Single Malt
 idade: 12
 destilaria: Glenfiddich
+teor: 40
+filtrado: Provavel
+corante: Não
 ---
 
 # 🥃 Glenfiddich 12 anos
@@ -19,6 +22,12 @@ destilaria: Glenfiddich
 | **Tipo** | {{ page.tipo }} |
 | **Idade** | {{ page.idade }} anos |
 | **Destilaria** | {{ page.destilaria }} |
+| **Teor Alcoolico** | {{ page.teor }}% |
+| **Filtrado** | {{ page.filtrado }}% |
+| **Corante artificial** | {{ page.corante }}% |
+
+## Coloração
+Dourado suave
 
 ## 👃 Sem Adição de Água
 
