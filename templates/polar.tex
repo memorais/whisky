@@ -6,27 +6,25 @@
 \begin{document}
 \begin{tikzpicture}
 \begin{polaraxis}[
-	title={Perfil de Degustação},
-	xtick{0,60,120,180,240,300},
-	xticklabels={Amadeirado, Frutado, Floral, Turfado, Cereal, Picante},
-	ymin=0, ymax=5,
-	ytick={0,1,2,3,4,5},
-	yticklabels={,,,}, %remove numeros do eixo radial
-	xticklabel style={font=\small}
-	grid={major},
-	width=12cm,
-	height=12cm
+    title={Perfil de Degustação - Whisky Exemplo},
+    xtick={0,60,120,180,240,300},
+    xticklabels={Amadeirado, Frutado, Floral, Turfado, Cereal, Picante},
+    ymin=0, ymax=5,
+    ytick={0,1,2,3,4,5},
+    yticklabels={,,,},
+    xticklabel style={font=\small},
+    grid={major},
+    width=12cm,
+    height=12cm
 ]
-
-\addplot+[mark=*,mark size=2,very thick,blue] coordinates {
-	(0,4.5) %Amadeirado
-	(60,3.2) %Frutado
-        (120,2.8) %Floral
-	(180,4.0) %Turfado
-	(240,3.5) %Cereal
-	(300,3.0) %Picante
-};
-
+\addplot+[mark=*,mark size=2,very thick,orange,mark options={fill=orange, draw=orange}] coordinates {
+    (0,4.5) %Amadeirado
+    (60,0) %Frutado
+    (120,2.8) %Floral
+    (180,4.0) %Turfado
+    (240,3.5) %Cereal
+    (300,3.0) %Picante
+} --cycle;
 \end{polaraxis}
 \end{tikzpicture}
 \end{document}
