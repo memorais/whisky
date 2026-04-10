@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: "Glenfiddich 12 anos - Notas de Degustação"
 date: 2025-11-19
 whisky: Glenfiddich 12 anos
