@@ -1,14 +1,14 @@
 ---
 layout: base
-title: "Buffalo Trace - Notas de Degustação"
-date: 2025-12-05
-whisky: Buffalo Trace
-tipo: Bourbon
-idade: N.A.S
-destilaria: Buffalo Trace 
-teor: 45
-filtrado: Não
-corante: Não
+title: "Old Parr 12 - Notas de Degustação"
+date: 2025-12-21
+whisky: Old Parr 12
+tipo: Blended Scotch
+idade: 12
+destilaria: Variadas
+teor: 40
+filtrado: Sim
+corante: Sim
 ---
 
 # 🥃 Buffalo Trace
@@ -27,32 +27,34 @@ corante: Não
 | **Corante artificial** | {{ page.corante }} |
 
 ## Coloração
-Dourado mel
+Dourado caramelo
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Carvalho
-- Chocolate
-- Cereja
-- Baunilha
 - Caramelo
+- Baunilha
+- Madeira
 
 ### Sabor
-- Chocolate
-- Menta
+- Picante
+- Leve turfa
+- Madeira
+- Especiarias
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Chocolate e a madeira ressaltaram 
+- Melado
+- Doce
 
 ### Sabor
-- Menta se destaca
+- Leve malte
+- Melado, doce de cana
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/buffalotrace.png" | relative_url }})
+![]({{ "/graficos/oldparr12.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
