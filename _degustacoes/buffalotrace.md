@@ -1,17 +1,17 @@
 ---
 layout: base
-title: "Sazerac Rye - Notas de Degustação"
+title: "Buffalo Trace - Notas de Degustação"
 date: 2025-12-05
-whisky: Sazerac Rye
-tipo: Rye Whisky
+whisky: Buffalo Trace
+tipo: Bourbon
 idade: N.A.S
-destilaria: Buffalo Trace
+destilaria: Talisker
 teor: 45
 filtrado: Não
 corante: Não
 ---
 
-# 🥃 Sazerac Rye
+# 🥃 Buffalo Trace
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
@@ -32,32 +32,30 @@ Dourado mel
 ## 👃 Sem Adição de Água
 
 ### Aroma
+- Carvalho
+- Chocolate
+- Cereja
 - Baunilha
-- Laranja
-- Pimenta
-- Frutas Cítricas
-- Cacau
+- Caramelo
 
 ### Sabor
-- Picante
-- Fruta madura
+- Chocolate
+- Menta
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Madeira
-- Fruta cítrica mais presente  
+- Chocolate e a madeira ressaltaram 
 
 ### Sabor
-- Ressaltou a picância
-- Pimenta preta
+- Menta se destaca
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/sazeracrye.png" | relative_url }})
+![]({{ "/graficos/buffalotrace.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*Este foi meu primeiro whisky de centeio, nunca havia tomado nada parecido anteriormente.* 
+*O Buffalo Trace foi o primeiro Bourbon além do Jack Daniels que eu havia provado, gostei da intensidade dos aromas.*
 
 ---
