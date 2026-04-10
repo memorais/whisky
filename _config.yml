@@ -4,7 +4,8 @@ description: "Notas e impressões pessoais sobre meus whiskies"
 
 # Configuração do Jekyll
 markdown: kramdown
-theme: jekyll-theme-primer  # Tema leve e limpo (opcional)
+#theme: jekyll-theme-primer  # Tema leve e limpo (opcional)
+theme: minima 
 
 # URLs amigáveis
 permalink: pretty
