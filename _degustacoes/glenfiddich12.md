@@ -17,14 +17,14 @@ corante: Não
 
 ## 📋 Ficha Técnica
 
-| Propriedade | Detalhe |
+| Propriedade | Valor |
 |-------------|---------|
 | **Tipo** | {{ page.tipo }} |
 | **Idade** | {{ page.idade }} anos |
 | **Destilaria** | {{ page.destilaria }} |
 | **Teor Alcoolico** | {{ page.teor }}% |
-| **Filtrado** | {{ page.filtrado }}% |
-| **Corante artificial** | {{ page.corante }}% |
+| **Filtrado** | {{ page.filtrado }} |
+| **Corante artificial** | {{ page.corante }} |
 
 ## Coloração
 Dourado suave
