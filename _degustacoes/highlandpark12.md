@@ -1,14 +1,14 @@
 ---
 layout: base
-title: "Old Parr 12 - Notas de Degustação"
-date: 2025-12-21
-whisky: Old Parr 12
-tipo: Blended Scotch
+title: "Highland Park 12 - Notas de Degustação"
+date: 2025-12-30
+whisky: Highland Park 12
+tipo: Single Malt
 idade: 12
-destilaria: Variadas
+destilaria: Highland Park
 teor: 40
 filtrado: Sim
-corante: Sim
+corante: Não
 ---
 
 # 🥃 Buffalo Trace
@@ -27,37 +27,39 @@ corante: Sim
 | **Corante artificial** | {{ page.corante }} |
 
 ## Coloração
-Dourado caramelo
+Dourado leve
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Caramelo
-- Baunilha
-- Madeira
+- Cítrico
+- Laranja
+- Picancia
+- Pimenta
 
 ### Sabor
+- Turfa
 - Picante
-- Leve turfa
-- Madeira
-- Especiarias
+- Cremoso
+- Cítrico
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Melado
-- Doce
+- Ressaltou o cítrico
+- Leve turfa
 
 ### Sabor
-- Leve malte
-- Melado, doce de cana
+- Malte
+- Turfa leve
+- Azeitona
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/oldparr12.png" | relative_url }})
+![]({{ "/graficos/highlandpark12.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*Um blended honesto, razoável para tomar puro, deve ficar ótimo com gelo ou como base para drinks*
+*Este é um single malt que se pode descrever como diz no rótulo, "redondo", agradável, balanceado, fácil de se beber.*
 
 ---
