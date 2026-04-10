@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: "Minha Adega" }}</title>
+    
+    <!-- Link para o CSS -->
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+    
+    <!-- Favicon opcional -->
+    <!-- <link rel="icon" href="{{ '/favicon.ico' | relative_url }}"> -->
+</head>
+<body>
+    <div class="container">
+        
+        <!-- Cabeçalho do site -->
+        <header>
+            <h1>
+                <a href="{{ '/' | relative_url }}">🥃 {{ site.title | default: "Minha Adega Digital" }}</a>
+            </h1>
+            {% if site.description %}
+                <p class="site-description">{{ site.description }}</p>
+            {% endif %}
+            
+            <!-- Menu de navegação simples -->
+            <nav>
+                <a href="{{ '/' | relative_url }}">Início</a>
+                <a href="{{ '/degustacoes/' | relative_url }}">Todas as Degustações</a>
+            </nav>
+            <hr>
+        </header>
+        
+        <!-- Conteúdo principal da página -->
+        <main>
+            {{ content }}
+        </main>
+        
+        <!-- Rodapé -->
+        <footer>
+            <hr>
+            <p>&copy; {{ "now" | date: "%Y" }} - Minha Adega Digital 🥃</p>
+            <small>Notas pessoais de degustação</small>
+        </footer>
+        
+    </div>
+</body>
+</html>

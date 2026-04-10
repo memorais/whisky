@@ -1,0 +1,15 @@
+# Configuração do site
+title: "Minha Adega Digital"
+description: "Notas e impressões pessoais sobre meus whiskies"
+
+# Configuração do Jekyll
+markdown: kramdown
+theme: jekyll-theme-primer  # Tema leve e limpo (opcional)
+
+# URLs amigáveis
+permalink: pretty
+
+# Pastas que não devem ser processadas
+exclude:
+  - README.md
+  - .gitignore

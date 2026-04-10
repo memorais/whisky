@@ -1,14 +1,24 @@
-# 🥃 Glenfiddich 12
+---
+layout: default
+title: "Glenfiddich 12 anos - Notas de Degustação"
+date: 2025-11-19
+whisky: Glenfiddich 12 anos
+tipo: Single Malt
+idade: 12
+destilaria: Glenfiddich
+---
+
+# 🥃 Glenfiddich 12 anos
+
+*Degustado em {{ page.date | date: "%d/%m/%Y" }}*
+
+## 📋 Ficha Técnica
 
 | Propriedade | Detalhe |
 |-------------|---------|
-| **Data da Degustação** | 19/11/2025 |
-| **Tipo** | Single Malt |
-| **Idade** | 12 anos |
-| **Destilaria** | Glenfiddich |
-| **Cor** | Dourado claro |
-
----
+| **Tipo** | {{ page.tipo }} |
+| **Idade** | {{ page.idade }} anos |
+| **Destilaria** | {{ page.destilaria }} |
 
 ## 👃 Sem Adição de Água
 
@@ -23,30 +33,23 @@
 - Malte
 - Ameixa
 
----
-
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Baunilha mais forte
-- Doce
+- Baunilha mais forte 
+- Doce 
 
 ### Sabor
-- Malte
+- Malte 
 - Ameixa
 - Doce
 
----
-
-## 📊 Perfil de Degustação
+## 📊 Perfil de Degustação 
 
 ![](../graficos/glenfiddich12.png)
 
----
-
-## 📝 Notas Finais
+## 💭 Impressões Pessoais
 
 *Foi meu primiero whisky single malt para degustação, acho que ainda vou ter que revisitar este whisky quando tiver mais experiência*
 
 ---
-*Registrado em: 19/11/2025*
