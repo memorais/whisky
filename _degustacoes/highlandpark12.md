@@ -11,7 +11,7 @@ filtrado: Sim
 corante: Não
 ---
 
-# 🥃 Buffalo Trace
+# 🥃 Highland Park 12
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 

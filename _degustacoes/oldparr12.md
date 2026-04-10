@@ -11,7 +11,7 @@ filtrado: Sim
 corante: Sim
 ---
 
-# 🥃 Buffalo Trace
+# 🥃 Old Parr 12
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
