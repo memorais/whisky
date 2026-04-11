@@ -20,3 +20,6 @@ exclude:
   - README.md
   - .gitignore
   - templates
+
+minima:
+  hide_site_feed_link: true
