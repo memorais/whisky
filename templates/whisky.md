@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Glenfiddich 12 anos - Notas de Degustação"
+title: "Glenfiddich 12"
 date: 2025-11-19
 whisky: Glenfiddich 12
 tipo: Single Malt

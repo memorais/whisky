@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Old Parr 12 - Notas de Degustação"
+title: "Old Parr 12"
 date: 2025-12-21
 whisky: Old Parr 12
 tipo: Blended Scotch

@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Buffalo Trace - Notas de Degustação"
+title: "Buffalo Trace"
 date: 2025-12-05
 whisky: Buffalo Trace
 tipo: Bourbon

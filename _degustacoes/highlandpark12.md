@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Highland Park 12 - Notas de Degustação"
+title: "Highland Park 12"
 date: 2025-12-30
 whisky: Highland Park 12
 tipo: Single Malt

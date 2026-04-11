@@ -1,17 +1,17 @@
 ---
 layout: base
-title: "Talisker 10"
-date: 2025-11-21
-whisky: Talisker 10
+title: "Laphroaig 10"
+date: 2026-02-01
+whisky: Laphroaig 10
 tipo: Single Malt
 idade: 10
-destilaria: Talisker
-teor: 45.8
+destilaria: Laphroaig
+teor: 40
 filtrado: Sim
 corante: Sim
 ---
 
-# 🥃 Talisker 10 anos
+# 🥃 Laphroaig 10 anos
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
@@ -32,34 +32,36 @@ Dourado suave
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Defumado
-- Ferro
-- Óleo de carro
+- Terra
+- Herbácio
+- Fumaça
 - Carvão
-- Sal
+- Baunilha
 
 ### Sabor
-- Turfa
-- Carne defumada
-- Pimenta
-- Sal
-- Algo marítimo
+- Malte
+- Defumado
+- Fumaço
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Ressaltou cheiro marítimo  
+- Doce
+- Frutado
+- Guaraná
 
 ### Sabor
-- Turfa se mantem
-- Salgado ressalta
+- Ferroso
+- Aparentemente algum tipo de erva
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/talisker10.png" | relative_url }})
+![]({{ "/graficos/laphroaig10.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*Este foi o whisky que me apresentou para o mundo da Turfa e eu adorei sentir os aromas e sabores deste rótulo.*
+*O whisky me impressionou tanto quanto a publicidade que fizeram com o Willem Dafoe. Pura obra de arte o whisky e a propaganda.*
+
+![Laphroaig - The taste](https://www.youtube.com/watch?v=0rcgoJ3l71M)
 
 ---

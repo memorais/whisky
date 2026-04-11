@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Sazerac Rye - Notas de Degustação"
+title: "Sazerac Rye"
 date: 2025-12-05
 whisky: Sazerac Rye
 tipo: Rye Whisky
