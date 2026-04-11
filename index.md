@@ -22,6 +22,24 @@ Aqui estão todas as notas de degustação da minha coleção:
   <p>Nenhuma degustação encontrada.</p>
 {% endif %}
 
+Meus próprios blends:
+
+{% assign blends = site.collections | where: "label", "blends" | first %}
+{% if blends %}
+  <ul>
+  {% for blend in blends.docs %}
+    <li>
+      <a href="{{ blend.url | relative_url }}">
+        🧪 {{ blend.data.title | default: blend.title | default: blend.basename }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+{% else %}
+  <p>Nenhuma Blend ainda disponível.</p>
+{% endif %}
+
+
 ---
 
 *Total: {{ whiskies.docs | size }} whiskies*
