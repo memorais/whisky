@@ -1,17 +1,17 @@
 ---
 layout: base
-title: "Laphroaig 10"
-date: 2026-02-01
-whisky: Laphroaig 10
-tipo: Single Malt
-idade: 10
-destilaria: Laphroaig
-teor: 40
+title: "Toki"
+date: 2026-01-02
+whisky: Toki 
+tipo: Blended Japanese Whisky
+idade: N.A.S
+destilaria: Variadas
+teor: 43
 filtrado: Sim
-corante: Sim
+corante: Possivelmente
 ---
 
-# 🥃 Laphroaig 10 anos
+# 🥃 Toki
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
@@ -27,41 +27,38 @@ corante: Sim
 | **Corante artificial** | {{ page.corante }} |
 
 ## Coloração
-Dourado suave
+Dourado pálido
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Terra
-- Herbácio
-- Fumaça
-- Carvão
-- Baunilha
+- Flores
+- Cítrico
+- Frutas vermelhas
+- Grama
 
 ### Sabor
-- Malte
-- Defumado
-- Fumaço
+- Picante
+- Madeira
+- Pouco Malte
+- Leve adocicado
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Doce
-- Frutado
-- Guaraná
+- Mais adocicado
+- Madeira
 
 ### Sabor
-- Ferroso
-- Aparentemente algum tipo de erva
+- Pimenta vermelha
+- Enfraqueceu bastante com a água
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/laphroaig10.png" | relative_url }})
+![]({{ "/graficos/toki.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*O whisky me impressionou tanto quanto a publicidade que fizeram com o Willem Dafoe. Pura obra de arte o whisky e a propaganda.*
-
-[Laphroaig - The taste](https://www.youtube.com/watch?v=0rcgoJ3l71M)
+*Foi o primeiro whisky japones que eu degustei efetivamente. Paguei um preço super barato mas não voltaria a comprar outro destes.*
 
 ---
