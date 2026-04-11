@@ -1,12 +1,12 @@
 ---
 layout: base
-title: "Aberlour 12 non-chill"
-date: 2026-03-04
-whisky: Aberlour 12 non-chill 
+title: "Kilchoman Sanaig"
+date: 2026-03-05
+whisky: Kilchoman Sanaig 
 tipo: Single Malt
-idade: 12
-destilaria: Aberlour
-teor: 48
+idade: N.A.S
+destilaria: Kilchoman
+teor: 46
 filtrado: Não
 corante: Não
 ---
@@ -27,37 +27,43 @@ corante: Não
 | **Corante artificial** | {{ page.corante }} |
 
 ## Coloração
-Ambar
+Ambar intenso
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Baunilha
-- Caramelo
-- Frutas Secas
-- Uva
+- Mel 
+- Frutas cítricas
+- Fumaça
+- Fogueira
+- Chocolate
+- Adocicado
 
 ### Sabor
-- Malte
-- Uva passa
-- Frutas vermelhas
-- Morango
+- Defumado
+- Chocolate
+- Leve picância
+- Ameixa seca
+- Carne
+- Bacon
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Caramelo se tornou predominante 
+- Ressalta o doce
+- Uma turfa adocicada
+- Coca cola 
 
 ### Sabor
-- Ameixa
-- Uva 
+- Um aparente tom vínico
+- Aumenta picância
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/aberlour12n.png" | relative_url }})
+![]({{ "/graficos/kilchomansanaig.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*Creio que foi meu primeiro whisky com uma presença mais forte da maturação em barris de sherry. Gostei do tom vínico desse whisky, me pareceu entretanto mais alcoolico no aroma do que eu esperava.*
+*Um whisky fantástico ainda mais por não ter uma idade declarada. Sua combinação de turfa com barris envelhecidos de sherry e ex-borubon na medida certa, fazem esse whisky uma obra artesanal diferenciada.*
 
 ---
