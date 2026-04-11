@@ -11,7 +11,7 @@ filtrado: Sim
 corante: Sim
 ---
 
-# 🥃 Johnnie Walker 18 Ultimate 
+# 🥃 Johnnie Walker Black Label 
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
