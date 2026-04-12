@@ -48,6 +48,6 @@ Dourado forte
 
 ## 💭 Impressões Pessoais
 
-*A ideia de fazer um blend de bourbou e rye da mesma destilaria me deixou animado. O resultado entretanto não foi tão bom quanto pareceu na ideia.*
+*A ideia de fazer um blend de bourbon e rye da mesma destilaria me deixou animado. O resultado entretanto não foi tão bom quanto pareceu na ideia.*
 
 ---
