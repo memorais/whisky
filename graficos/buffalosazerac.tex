@@ -25,6 +25,28 @@
     (240,0) %Cereal
     (300,2) %Picante
 } --cycle;
+	\addlegendentry{Blend}
+
+\addplot+[mark=x,mark size=2,thick,green,mark options={fill=green, draw=green}] coordinates {
+    (0,2) %Amadeirado
+    (60,3) %Frutado
+    (120,0) %Floral
+    (180,0) %Turfado
+    (240,1) %Cereal
+    (300,4) %Picante
+} --cycle;
+	\addlegendentry{Sazerac Rye}
+
+\addplot+[mark=+,mark size=2,thick,blue!70,mark options={fill=blue!70, draw=blue!70}] coordinates {
+    (0,2) %Amadeirado
+    (60,4) %Frutado
+    (120,0) %Floral
+    (180,0) %Turfado
+    (240,1) %Cereal
+    (300,2) %Picante
+} --cycle;
+	\addlegendentry{Buffalo Trace}
+
 \end{polaraxis}
 \end{tikzpicture}
 \end{document}
