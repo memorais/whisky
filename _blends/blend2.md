@@ -2,7 +2,7 @@
 layout: base
 title: "Buffalo Trace & Sazerac Rye"
 date: 2026-02-07
-whisky: Glenfiddich 12 & Talisker 10
+whisky: Buffalo Trace & Sazerac Rye 
 tipo: Blended
 destilaria: Buffalo Trace
 teor: 45 
