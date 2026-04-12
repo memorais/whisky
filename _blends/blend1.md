@@ -4,9 +4,8 @@ title: "Glenfiddich 12 & Talisker 10"
 date: 2026-02-07
 whisky: Glenfiddich 12 & Talisker 10
 tipo: Blended Malt
-idade: N.A.S
 destilaria: Glenfiddich e Talisker
-teor: 46
+teor: 40.7
 ---
 
 # 🧪 {{ page.whisky }}
@@ -18,13 +17,14 @@ teor: 46
 | Propriedade | Valor |
 |-------------|---------|
 | **Tipo** | {{ page.tipo }} |
-| **Idade** | {{ page.idade }} |
 | **Destilaria** | {{ page.destilaria }} |
 | **Teor Alcoolico** | {{ page.teor }}% |
 
 ## 📓 Composição
 
 ![]({{ "/graficos-blends/glenfiddichtalisker.png" | relative_url }})
+
+Após a mistura deixei em uma taça por cerca de 15 minutos.
 
 ## Coloração
 Dourado suave
@@ -46,7 +46,7 @@ Dourado suave
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos-blends/glenfiddichtalisker.png" | relative_url }})
+![]({{ "/graficos/glenfiddichtalisker.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 

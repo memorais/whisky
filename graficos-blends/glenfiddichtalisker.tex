@@ -1,19 +1,14 @@
-\documentclass{article}
+\documentclass[border=5pt]{standalone}
 \usepackage{tikz}
 \usepackage{pgf-pie}
-\usepackage{float}
 
 \begin{document}
 
-\begin{figure}[H]
-\centering
 \begin{tikzpicture}
 \pie[text=legend,
      color={blue!70, brown!70}]
 {80/Glenfiddich 12 (20ml),
  20/Talisker 10 (5ml)}
 \end{tikzpicture}
-\caption{Blend - Total: 25ml}
-\end{figure}
 
 \end{document}
