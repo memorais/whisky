@@ -26,17 +26,17 @@ teor: 45
 
 Após a mistura deixei em uma taça descansando por cerca de 15 minutos.
 
-## Coloração
+## 🎨 Coloração
 Dourado forte
 
-### 👃 Aroma
+## 👃 Aroma
 - Madeira
 - Mel
 - Flores
 - Doce de coco
 - Bem frutado
 
-### 🧂 Sabor
+## 🧂 Sabor
 - Bala de morango
 - Carvalho
 - Tuttifruti

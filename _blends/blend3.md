@@ -26,13 +26,13 @@ teor: 46
 
 Vou deixar em um recipiente de vidro selado por uma semana.
 
-## Coloração
+## 🎨 Coloração
 Dourado claro 
 
-### 👃 Aroma
+## 👃 Aroma
 - Ainda não degustado 
 
-### 🧂 Sabor
+## 🧂 Sabor
 - Ainda não degustado
 
 ## 📊 Perfil de Degustação 

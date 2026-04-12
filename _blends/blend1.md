@@ -26,10 +26,10 @@ teor: 40.7
 
 Após a mistura deixei em uma taça por cerca de 15 minutos.
 
-## Coloração
+## 🎨 Coloração
 Dourado suave
 
-### 👃 Aroma
+## 👃 Aroma
 - Coco
 - Turfa leve
 - Mel
@@ -37,7 +37,7 @@ Dourado suave
 - Baunilha
 - Caramelo
 
-### 🧂 Sabor
+## 🧂 Sabor
 - Malte
 - Ameixa
 - Picante
