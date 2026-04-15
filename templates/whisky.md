@@ -1,17 +1,19 @@
 ---
 layout: base
-title: "Glenfiddich 12"
-date: 2025-11-19
-whisky: Glenfiddich 12
+title: "Kilchoman Sanaig"
+date: 2026-03-05
+whisky: Kilchoman Sanaig 
 tipo: Single Malt
-idade: 12
-destilaria: Glenfiddich
-teor: 40
-filtrado: Provavel
+idade: N.A.S
+destilaria: Kilchoman
+teor: 46
+filtrado: Não
 corante: Não
 ---
 
-# 🥃 Glenfiddich 12 anos
+
+
+# 🥃 {{ page.whisky }}
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
@@ -20,45 +22,100 @@ corante: Não
 | Propriedade | Valor |
 |-------------|---------|
 | **Tipo** | {{ page.tipo }} |
-| **Idade** | {{ page.idade }} anos |
+| **Idade** | {{ page.idade }} |
 | **Destilaria** | {{ page.destilaria }} |
 | **Teor Alcoolico** | {{ page.teor }}% |
 | **Filtrado** | {{ page.filtrado }} |
 | **Corante artificial** | {{ page.corante }} |
 
 ## Coloração
-Dourado suave
+
+<style>
+.whisky-ruler {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+.whisky-ruler div {
+  width: 35px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 11px;
+  font-weight: bold;
+  color: black;
+}
+.selected {
+  border: 3px solid red;
+}
+</style>
+
+<div class="whisky-ruler">
+  <!-- 1: Palha muito claro - whiskies muito jovens ou de carvalho usado -->
+  <div style="background: #FFF2CC;"></div>
+  <!-- 2: Palha -->
+  <div style="background: #FFE69A;"></div>
+  <!-- 3: Dourado pálido -->
+  <div style="background: #FDE29A;"></div>
+  <!-- 4: Dourado -->
+  <div style="background: #F4C542;"></div>
+  <!-- 5: Dourado intenso -->
+  <div style="background: #E8A72C;"></div>
+  <!-- 6: Âmbar claro -->
+  <div style="background: #D98A2C;"></div>
+  <!-- 7: Âmbar -->
+  <div style="background: #C5691A;"></div>
+  <!-- 8: Âmbar profundo -->
+  <div style="background: #A65D1A;"></div>
+  <!-- 9: Âmbar avermelhado -->
+  <div style="background: #A0522D;" class="selected"></div>
+  <!-- 10: Âmbar tijolo -->
+  <div style="background: #9B4A1A;"></div>
+  <!-- 11: Cobre -->
+  <div style="background: #8B4513;"></div>
+  <!-- 12: Carvalho velho -->
+  <div style="background: #6B3A1F;"></div>
+  <!-- 13: Mogno / Xerez escuro -->
+  <div style="background: #4A2511;"></div>
+</div>
+
+Âmbar avermelhado
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Malte
-- Floral
-- Grama
-- Baunilha
+- Mel 
+- Frutas cítricas
+- Fumaça
+- Fogueira
 - Chocolate
+- Adocicado
 
 ### Sabor
-- Malte
-- Ameixa
+- Defumado
+- Chocolate
+- Leve picância
+- Ameixa seca
+- Carne
+- Bacon
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Baunilha mais forte 
-- Doce 
+- Ressalta o doce
+- Uma turfa adocicada
+- Coca cola 
 
 ### Sabor
-- Malte 
-- Ameixa
-- Doce
+- Um aparente tom vínico
+- Aumenta picância
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/glenfiddich12.png" | relative_url }})
+![]({{ "/graficos/kilchomansanaig.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*Foi meu primiero whisky single malt para degustação, acho que ainda vou ter que revisitar este whisky quando tiver mais experiência*
+*Um whisky fantástico ainda mais por não ter uma idade declarada. Sua combinação de turfa com barris envelhecidos de sherry e ex-borubon na medida certa, fazem esse whisky uma obra artesanal diferenciada.*
 
 ---
