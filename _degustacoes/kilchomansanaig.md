@@ -31,26 +31,55 @@ corante: Não
 ## Coloração
 
 <style>
-.ruler { display: flex; margin: 10px 0; }
-.ruler div { width: 35px; height: 25px; }
-.selected { border: 3px solid red; }
+.whisky-ruler {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 0;
+}
+.whisky-ruler div {
+  width: 35px;
+  height: 30px;
+  text-align: center;
+  line-height: 30px;
+  font-size: 11px;
+  font-weight: bold;
+  color: black;
+}
+.selected {
+  border: 3px solid red;
+}
 </style>
 
-<div class="ruler">
-  <div style="background:#FFF2CC;"></div>
-  <div style="background:#FFE69A;"></div>
-  <div style="background:#FDE29A;" class="selected"></div>
-  <div style="background:#F4C542;"></div>
-  <div style="background:#E8A72C;"></div>
-  <div style="background:#D98A2C;"></div>
-  <div style="background:#C5691A;"></div>
-  <div style="background:#A65D1A;"></div>
-  <div style="background:#8B4513;"></div>
-  <div style="background:#6B3A1F;"></div>
-  <div style="background:#4A2511;"></div>
+<div class="whisky-ruler">
+  <!-- 1: Palha muito claro - whiskies muito jovens ou de carvalho usado -->
+  <div style="background: #FFF2CC;">1</div>
+  <!-- 2: Palha -->
+  <div style="background: #FFE69A;">2</div>
+  <!-- 3: Dourado pálido -->
+  <div style="background: #FDE29A;">3</div>
+  <!-- 4: Dourado -->
+  <div style="background: #F4C542;">4</div>
+  <!-- 5: Dourado intenso -->
+  <div style="background: #E8A72C;">5</div>
+  <!-- 6: Âmbar claro -->
+  <div style="background: #D98A2C;">6</div>
+  <!-- 7: Âmbar -->
+  <div style="background: #C5691A;">7</div>
+  <!-- 8: Âmbar profundo -->
+  <div style="background: #A65D1A;">8</div>
+  <!-- 9: Âmbar avermelhado -->
+  <div style="background: #A0522D;" class="selected">9</div>
+  <!-- 10: Âmbar tijolo -->
+  <div style="background: #9B4A1A;">10</div>
+  <!-- 11: Cobre -->
+  <div style="background: #8B4513;">11</div>
+  <!-- 12: Carvalho velho -->
+  <div style="background: #6B3A1F;">12</div>
+  <!-- 13: Mogno / Xerez escuro -->
+  <div style="background: #4A2511;">13</div>
 </div>
 
-Ambar intenso
+Âmbar avermelhado
 
 ## 👃 Sem Adição de Água
 
