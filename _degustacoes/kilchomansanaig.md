@@ -52,31 +52,31 @@ corante: Não
 
 <div class="whisky-ruler">
   <!-- 1: Palha muito claro - whiskies muito jovens ou de carvalho usado -->
-  <div style="background: #FFF2CC;">1</div>
+  <div style="background: #FFF2CC;"></div>
   <!-- 2: Palha -->
-  <div style="background: #FFE69A;">2</div>
+  <div style="background: #FFE69A;"></div>
   <!-- 3: Dourado pálido -->
-  <div style="background: #FDE29A;">3</div>
+  <div style="background: #FDE29A;"></div>
   <!-- 4: Dourado -->
-  <div style="background: #F4C542;">4</div>
+  <div style="background: #F4C542;"></div>
   <!-- 5: Dourado intenso -->
-  <div style="background: #E8A72C;">5</div>
+  <div style="background: #E8A72C;"></div>
   <!-- 6: Âmbar claro -->
-  <div style="background: #D98A2C;">6</div>
+  <div style="background: #D98A2C;"></div>
   <!-- 7: Âmbar -->
-  <div style="background: #C5691A;">7</div>
+  <div style="background: #C5691A;"></div>
   <!-- 8: Âmbar profundo -->
-  <div style="background: #A65D1A;">8</div>
+  <div style="background: #A65D1A;"></div>
   <!-- 9: Âmbar avermelhado -->
-  <div style="background: #A0522D;" class="selected">9</div>
+  <div style="background: #A0522D;" class="selected"></div>
   <!-- 10: Âmbar tijolo -->
-  <div style="background: #9B4A1A;">10</div>
+  <div style="background: #9B4A1A;"></div>
   <!-- 11: Cobre -->
-  <div style="background: #8B4513;">11</div>
+  <div style="background: #8B4513;"></div>
   <!-- 12: Carvalho velho -->
-  <div style="background: #6B3A1F;">12</div>
+  <div style="background: #6B3A1F;"></div>
   <!-- 13: Mogno / Xerez escuro -->
-  <div style="background: #4A2511;">13</div>
+  <div style="background: #4A2511;"></div>
 </div>
 
 Âmbar avermelhado
