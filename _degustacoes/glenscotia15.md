@@ -1,17 +1,17 @@
 ---
 layout: base
-title: "Edradour 10"
-date: 2026-04-15
-whisky: Edradour 10
+title: "Glen Scotia 15"
+date: 2026-04-18
+whisky: Glen Scotia 15
 tipo: Single Malt
-idade: 10
-destilaria: Edradour
-teor: 40
-filtrado: Sim
-corante: Não
+idade: 15
+destilaria: Glen Scotia
+teor: 46
+filtrado: Não
+corante: Provavelmente não
 ---
 
-# 🥃 Edradour 10
+# 🥃 Glen Scotia 15
 
 *Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
@@ -57,7 +57,7 @@ corante: Não
   <!-- 4: Dourado -->
   <div style="background: #F4C542;"></div>
   <!-- 5: Dourado intenso -->
-  <div style="background: #E8A72C;"></div>
+  <div style="background: #E8A72C;" class="selected"></div>
   <!-- 6: Âmbar claro -->
   <div style="background: #D98A2C;"></div>
   <!-- 7: Âmbar -->
@@ -67,7 +67,7 @@ corante: Não
   <!-- 9: Âmbar avermelhado -->
   <div style="background: #A0522D;"></div>
   <!-- 10: Âmbar tijolo -->
-  <div style="background: #9B4A1A;" class="selected"></div>
+  <div style="background: #9B4A1A;"></div>
   <!-- 11: Cobre -->
   <div style="background: #8B4513;"></div>
   <!-- 12: Carvalho velho -->
@@ -76,39 +76,38 @@ corante: Não
   <div style="background: #4A2511;"></div>
 </div>
 
-Âmbar
+Dourado Caramelo
 
 ## 👃 Sem Adição de Água
 
 ### Aroma
-- Frutas secas
-- Vínico
-- Chocolate
 - Baunilha
+- Carvalho
+- Flores
+- Picante
+- Caramelo
+- Algo marítimo
 
 ### Sabor
-- Chocolate 80%
+- Picante
 - Rico
-- Oleoso
-- Frutas secas
+- Adocicado
+- Gengibre
 
 ## 💧 Com Adição de Água
 
 ### Aroma
-- Nota-se o Oloroso mais presente
-- Caramelo
-- Adocicado
+- Baunilha ficou mais intensa
 
 ### Sabor
-- Mais amargo 
-- Leve picância
+- Malte
 
 ## 📊 Perfil de Degustação 
 
-![]({{ "/graficos/edradour10.png" | relative_url }})
+![]({{ "/graficos/glenscotia15.png" | relative_url }})
 
 ## 💭 Impressões Pessoais
 
-*É um whisky impressionante, mesmo nesta versão com filtragem a frio, é bastante saboroso e complexo. Sua coloração natural é muito bonita, se nota o trabalho dos barris de jerez.*
+*Estava com a expectativa alta por esse whisky, primeiramente é o Single Malt com mais tempo de maturação que eu já provei e por ser um whisky da região de Campbelltown. Gostei bastante do perfil dele, consegui entender bem o chamado Campbelltown funk, é um whisky complexo cheio camadas.*
 
 ---
