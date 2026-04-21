@@ -27,13 +27,18 @@ teor: 46
 Vou deixar em um recipiente de vidro selado por uma semana.
 
 ## 🎨 Coloração
-Dourado claro 
+Dourado claro
 
 ## 👃 Aroma
-- Ainda não degustado 
+- Carne assada
+- Arredondado
+- Cítrico 
 
 ## 🧂 Sabor
-- Ainda não degustado
+- Amargo
+- Salgado
+- Levemente picante
+- Malte
 
 ## 📊 Perfil de Degustação 
 
@@ -41,6 +46,6 @@ Dourado claro
 
 ## 💭 Impressões Pessoais
 
-*TODO*
+*Esse blend foi recheado de erros por parte de um iniciante. O Port Charlotte possui um teor alcoolico muito mais elevado que os outros, por tanto sua potência fica bastante forte e basicamente ele domina os demais whiskies do blend. Certamente não é um Port Charlotte mas também não traz as notas frutadas claras do Glenmorangie e Glenlivet. Realmente um passo na direção errada dos blends.*
 
 ---
