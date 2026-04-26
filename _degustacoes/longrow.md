@@ -1,7 +1,7 @@
 ---
 layout: base
 title: "Longrow"
-date: 2026-04-15
+date: 2026-04-24
 whisky: Longrow
 tipo: Single Malt
 idade: N.A.S
