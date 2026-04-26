@@ -10,7 +10,7 @@ teor: 46
 
 # 🧪 {{ page.whisky }}
 
-*Criado em {{ page.date | date: "%d/%m/%Y" }} ainda não degustado*
+*Degustado em {{ page.date | date: "%d/%m/%Y" }}*
 
 ## 📋 Ficha Técnica
 
